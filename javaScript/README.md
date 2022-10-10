@@ -1,1 +1,1 @@
-### [1. readline-sync](./readline-sync/README.md)
+### [1. readline-sync](./readline-sync)

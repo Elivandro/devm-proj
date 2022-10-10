@@ -3,4 +3,4 @@ repositorio destinado a projetos executados para prática através da plataforma
 
 
 
-### [1. JavaScript](./javaScript/README.md)
+### [1. JavaScript](./javaScript)
